@@ -1,0 +1,1 @@
+import{b as e,mt as a}from"./runtime-core.esm-bundler-CLbxCKhK.js";var m=Object.assign({name:"Welcome"},{__name:"index",setup(n){return(r,t)=>(a(),e("h1",null,"Pure Admin · 精简模板"))}});export{m as default};
